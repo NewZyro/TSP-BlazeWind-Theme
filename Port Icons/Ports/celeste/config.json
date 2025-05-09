@@ -1,0 +1,7 @@
+{
+    "label":"Celeste",
+    "icon":"icon.png",
+	"iconsel":"icon.png",
+    "themecolor":"000000",
+    "launch":"Celeste.sh"
+}

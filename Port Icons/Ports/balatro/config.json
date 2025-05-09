@@ -1,0 +1,7 @@
+{
+    "label":"Balatro",
+    "icon":"icon.png",
+	"iconsel":"icon.png",
+    "themecolor":"000000",
+    "launch":"Balatro.sh"
+}

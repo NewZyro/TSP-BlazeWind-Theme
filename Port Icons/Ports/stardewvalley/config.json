@@ -1,0 +1,6 @@
+{
+    "label":"Stardew Valley",
+    "icon":"icon.png",
+    "themecolor":"000000",
+    "launch":"StardewValley.sh"
+}

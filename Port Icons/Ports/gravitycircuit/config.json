@@ -1,0 +1,6 @@
+{
+    "label":"Gravity Circuit",
+    "icon":"icon.png",
+    "themecolor":"000000",
+    "launch":"GravityCircuit.sh"
+}

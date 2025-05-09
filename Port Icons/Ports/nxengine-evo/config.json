@@ -1,0 +1,6 @@
+{
+    "label":"Cave Story",
+    "icon":"icon.png",
+    "themecolor":"000000",
+    "launch":"CaveStory.sh"
+}

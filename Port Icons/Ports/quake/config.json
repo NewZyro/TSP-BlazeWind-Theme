@@ -1,0 +1,6 @@
+{
+    "label":"Quake",
+    "icon":"icon.png",
+    "themecolor":"000000",
+    "launch":"Quake.sh"
+}

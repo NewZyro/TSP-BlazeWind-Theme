@@ -1,0 +1,7 @@
+{
+    "label":"Sonic Mania",
+    "icon":"icon.png",
+    "iconsel":"icon.png",
+    "themecolor":"000000",
+    "launch":"SonicMania.sh"
+}

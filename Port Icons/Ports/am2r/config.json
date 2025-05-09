@@ -1,0 +1,7 @@
+{
+    "label":"am2r",
+    "icon":"icon.png",
+	"iconsel":"icon.png",
+    "themecolor":"000000",
+    "launch":"am2r.sh"
+}

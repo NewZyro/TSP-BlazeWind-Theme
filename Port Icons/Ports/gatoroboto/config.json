@@ -1,0 +1,7 @@
+{
+    "label":"Gato Roboto",
+    "icon":"icon.png",
+	"iconsel":"icon.png",
+    "themecolor":"000000",
+    "launch":"GatoRoboto.sh"
+}

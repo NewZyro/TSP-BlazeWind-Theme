@@ -1,0 +1,7 @@
+{
+	"label":"Sonic 3 AIR",
+    "icon":"icon.png",
+    "iconsel":"icon.png",
+    "themecolor":"000000",
+    "launch":"Sonic3AIR.sh"
+}
